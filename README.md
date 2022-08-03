@@ -2,7 +2,7 @@
    ![License: ODbL](https://img.shields.io/badge/License-ODbL-brightgreen.svg)
 ## Description
 
-I created this project for my unit 9 challenge in coding bootcamp. For the challenge we were given starting code to refractor and develop into a fully functioning readme generator. 
+I created this project for my unit 9 challenge in coding bootcamp. For the challenge we were given starting code to refractor and develop into a fully functioning readme generator. I actually created this readme using the readme generator! I found the challenge difficult at first but it really came to me quickly and I'm happy with the finished project. 
 
 ## Table of Contents 
 
